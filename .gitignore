@@ -2,3 +2,4 @@
 *.param
 *.pyc
 .history/
+.idea/
